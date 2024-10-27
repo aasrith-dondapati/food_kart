@@ -6,7 +6,7 @@
 
 ```bash
 git clone <repository-url>
-cd food_ordering_app
+cd Food_kart
 
 # Install server dependencies
 cd server
